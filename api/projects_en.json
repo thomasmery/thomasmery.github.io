@@ -69,7 +69,7 @@
      {
         "name": "Balades Sonores",
         "description": "A record store website & e-commerce.",
-        "notes": "The current website is 5 years old now and I am in the middle of a quite significant overhaul & evolution for this parisian based record store. We have planned a WooCommerce integration as well as making the site responsive and multilingual.#### The project involves the import and the management of more than 10000 references & their variations. The amount of references as well as the ability for the store owner to easily get records infos from external sources (Artwork, tracklisting ... ) added to quite specific business rules regarding the management of the records are the main challenges of this project.",
+        "notes": "The current website is 5 years old now and I am in the middle of a quite significant overhaul & evolution for this parisian based record store. We have planned a WooCommerce integration as well as making the site responsive and multilingual.#### The project involves the import and the management of more than 15000 references & their variations. The amount of references as well as the ability for the store owner to easily get records infos from external sources (Artwork, tracklisting ... ) added to quite specific business rules regarding the management of the records are the main challenges of this project.",
         "technologies": ["PHP", "WordPress", "WooCommerce", "MySql", "Javascript", "WP All Import"],
         "repo_url": "",
         "project_url": "http://www.baladessonores.com/",
@@ -81,7 +81,7 @@
         "type": "web site",
         "client": "Mister Brown - Agency",
         "description": "A Single Page Site built on top of WordPress REST API.",
-        "notes": "This project was a first opportunity to work with the emerging _Wordpress REST API_ (at the time a plugin). It also uses _HTML5 canvas_ to propose interesting transition between projects.",
+        "notes": "This project was a first opportunity to work with the emerging _Wordpress REST API_ (at the time a plugin). It also uses _HTML5 canvas_ to propose interesting transition between the projects of this design agency.",
         "technologies": ["PHP", "WordPress", "HTML/CSS", "Javascript", "Backbone.js", "WP REST API", "HTML5 Canvas"],
         "project_url": "http://www.vuesurlaville.fr",
         "repo_url": "https://github.com/aaltomeri/vslv/tree/master/wp-content/themes/vslv",
