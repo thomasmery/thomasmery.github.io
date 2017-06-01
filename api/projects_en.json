@@ -49,7 +49,7 @@
         "name": "On Site Antiques - Web site",
         "type": "web site",
         "client": "On Site Antiques - Antiques sourcing company",
-        "description": "A simple site - a Gallery of image and a few pages",
+        "description": "A simple site - a Gallery of image and a few pages.",
         "notes": "Built with [Sage 9](https://github.com/roots/sage), a WordPress starter theme with a modern development workflow - part of the [Roots project](https://roots.io/).####Special focus on the _attachment_ post type and building a custom gallery of progressively loaded images in a grid with detailed view and previous/next navigation. This project is the foundation of a public theme to be released with designer [Monica Fraile](http://www.monicafraile.com), a really skilled visual designer (imho) with whom I have worked on a few other projects.\n\nThis project is one of many that used the Sage starter theme and the Bedrock WordPress development boilerplate in an attempt to use [more modern PHP practices in a WordPress context](https://roots.io/bedrock-vs-regular-wordpress-install/) ([Composer](https://getcomposer.org/), automatic deployment with [Capistrano](http://capistranorb.com/) and [more](https://roots.io/bedrock/) ... )",
         "technologies": ["PHP", "WordPress", "HTML/CSS", "Javascript", "jQuery"],
         "project_url": "http://demo.onsiteantiques.com",
@@ -59,7 +59,7 @@
      {
         "name": "Balades Sonores",
         "description": "A record store website & e-commerce.",
-        "notes": "The current website is 5 years old now and I am in the middle of a quite significant overhaul & evolution for this parisian based record store. We have planned a WooCommerce integration as well as making the site responsive and multilingual.#### The project involves the import and the management of more than 15000 references & their variations. The amount of references as well as the ability for the store owner to easily get records infos from external sources (Artwork, tracklisting ... ) added to quite specific business rules regarding the management of the records are the main challenges of this project.",
+        "notes": "The current website is 5 years old now and I am in the middle of a quite significant overhaul & evolution for this parisian based record store.\n\nWe have planned a WooCommerce integration as well as making the site responsive and multilingual.\n\nThe project involves the import and the management of more than 15000 references & their variations. The amount of references as well as the ability for the store owner to easily get records infos from external sources (Artwork, tracklisting ... ) added to quite specific business rules regarding the management of the records are the main challenges of this project.",
         "technologies": ["PHP", "WordPress", "WooCommerce", "MySql", "Javascript", "WP All Import"],
         "repo_url": "",
         "project_url": "http://www.baladessonores.com/",
