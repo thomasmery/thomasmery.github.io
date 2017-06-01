@@ -4,22 +4,11 @@
         "type": "web application",
         "client": "On Site Antiques - Antiques sourcing company",
         "description": "A web application to help managing the catalog of items & clients/partners of an antiques sourcing company",
-        "notes": "A quite significant project for me as it was leveraging new technologies like _[Meteor](https://www.meteor.com)_, _[React.js](https://facebook.github.io/react/)_ & _[Redux](http://redux.js.org/)_ ( the application state manager library by Dan Abramov & friends).\n\n####It allowed me to plan, design and code. I was really glad to be able to use only Javascript and to get to approach functional programming concepts that I came to really like.\n\nI was really seduced by _Meteor real-time reactivity_ concept and even though it posed specific challenges I had to take my skills to another level, also approaching more closely the world of [Node.js](http://www.nodejs.org) and the [npm](https://www.npmjs.com/) ecosystem.\n\nThe developemnt of the application took place at a time where Meteor was moving very quickly and even though it could be hard at times to follow the rapid pace it forced me to take in a lot of information in a short time thus enhancing my ability to be ... reactive and responsive to changes.\n\nI also had the opportunity to use the [Material UI](http://www.material-ui.com) React library that helped me in giving the application a clean and professional look as well as speeding up parts of the development process.\n\n_Access to this project's code is private but can be obtained for review / hire purposes._",
+        "notes": "A quite significant project for me as it was leveraging new technologies like _[Meteor](https://www.meteor.com)_, _[React.js](https://facebook.github.io/react/)_ & _[Redux](http://redux.js.org/)_ ( the application state manager library by Dan Abramov & friends).\n\nIt allowed me to plan, design and code. I was really glad to be able to use only Javascript and to get to approach functional programming concepts that I came to really like.####\n\nI was really seduced by _Meteor real-time reactivity_ concept and even though it posed specific challenges I had to take my skills to another level, also approaching more closely the world of [Node.js](http://www.nodejs.org) and the [npm](https://www.npmjs.com/) ecosystem.\n\nThe developemnt of the application took place at a time where Meteor was moving very quickly and even though it could be hard at times to follow the rapid pace it forced me to take in a lot of information in a short time thus enhancing my ability to be ... reactive and responsive to changes.\n\nI also had the opportunity to use the [Material UI](http://www.material-ui.com) React library that helped me in giving the application a clean and professional look as well as speeding up parts of the development process.\n\n_Access to this project's code is private but can be obtained for review / hire purposes._",
         "technologies": ["Javascript", "Meteor", "React.js", "Redux", "MongoDb", "HTML/CSS", "Material UI", "Flexbox"],
         "repo_url": "",
         "project_url": "",
         "images": ["https://cl.ly/0d3E2i2S0e03/Screenshot%202017-05-29%20a%CC%80%2016.25.48.png","https://cl.ly/1s2a213J331h/Screenshot%202017-05-29%20a%CC%80%2016.39.32.png"],
-        "status": "completed"
-    },
-    {
-        "name": "On Site Antiques - Web site",
-        "type": "web site",
-        "client": "On Site Antiques - Antiques sourcing company",
-        "description": "A simple site - a Gallery of image and a few pages",
-        "notes": "Built with [Sage 9](https://github.com/roots/sage), a WordPress starter theme with a modern development workflow - part of the [Roots project](https://roots.io/).####Special focus on the _attachment_ post type and building a custom gallery of progressively loaded images in a grid with detailed view and previous/next navigation. This project is the foundation of a public theme to be released with designer [Monica Fraile](http://www.monicafraile.com), a really skilled visual designer (imho) with whom I have worked on a few other projects.\n\nThis project is one of many that used the Sage starter theme and the Bedrock WordPress development boilerplate in an attempt to use [more modern PHP practices in a WordPress context](https://roots.io/bedrock-vs-regular-wordpress-install/) ([Composer](https://getcomposer.org/), automatic deployment with [Capistrano](http://capistranorb.com/) and [more](https://roots.io/bedrock/) ... )",
-        "technologies": ["PHP", "WordPress", "HTML/CSS", "Javascript", "jQuery"],
-        "project_url": "http://demo.onsiteantiques.com",
-        "images": ["https://cl.ly/3U3w2Y0w3s0Q/Screenshot%202017-05-29%20a%CC%80%2014.32.57.png", "https://cl.ly/3r3c121a163J/Screenshot%202017-05-29%20a%CC%80%2014.32.37.png"],
         "status": "completed"
     },
     {
@@ -32,7 +21,7 @@
         "repo_url": "https://github.com/kilbot/WooCommerce-POS/tree/master",
         "project_url": "http://www/wcpos.com",
         "images": ["https://cl.ly/3V3e2t1l2Q24/Screenshot%202017-05-29%20a%CC%80%2015.58.45.png"],
-        "status": "in progress"
+        "status": "ongoing"
     },
     {
         "name": "Odysseus Extension for WooCommerce",
@@ -57,14 +46,15 @@
         "status": "in progress"
     },
     {
-        "name": "Thomas Mery's résumé",
-        "description": "A small React application that presents what I have done & what I am doing ... code wise",
-        "notes": "As I was in need of revamping my résumé it occured to me that it would be a good idea to take this opportunity to keep on training and use [create-react-app](https://github.com/facebookincubator/create-react-app), an easy to use build configuration for React.js application made by facebook to help developers. This project is also a good introduction to working with a simple [Progressive Web Application](https://developers.google.com/web/progressive-web-apps/). It is also planned to use this project to build a first simple [React Native](https://facebook.github.io/react-native/) application.",
-        "technologies": ["Javascript", "React.js"],
-        "repo_url": "https://github.com/thomasmery/thomasmery.github.io",
-        "project_url": "http://thomasmery.github.io",
-        "images": ["https://cl.ly/1S3x3V3H1R2B/Screenshot%202017-05-29%20a%CC%80%2018.24.15.png"],
-        "status": "in progress"
+        "name": "On Site Antiques - Web site",
+        "type": "web site",
+        "client": "On Site Antiques - Antiques sourcing company",
+        "description": "A simple site - a Gallery of image and a few pages",
+        "notes": "Built with [Sage 9](https://github.com/roots/sage), a WordPress starter theme with a modern development workflow - part of the [Roots project](https://roots.io/).####Special focus on the _attachment_ post type and building a custom gallery of progressively loaded images in a grid with detailed view and previous/next navigation. This project is the foundation of a public theme to be released with designer [Monica Fraile](http://www.monicafraile.com), a really skilled visual designer (imho) with whom I have worked on a few other projects.\n\nThis project is one of many that used the Sage starter theme and the Bedrock WordPress development boilerplate in an attempt to use [more modern PHP practices in a WordPress context](https://roots.io/bedrock-vs-regular-wordpress-install/) ([Composer](https://getcomposer.org/), automatic deployment with [Capistrano](http://capistranorb.com/) and [more](https://roots.io/bedrock/) ... )",
+        "technologies": ["PHP", "WordPress", "HTML/CSS", "Javascript", "jQuery"],
+        "project_url": "http://demo.onsiteantiques.com",
+        "images": ["https://cl.ly/3U3w2Y0w3s0Q/Screenshot%202017-05-29%20a%CC%80%2014.32.57.png", "https://cl.ly/3r3c121a163J/Screenshot%202017-05-29%20a%CC%80%2014.32.37.png"],
+        "status": "completed"
     },
      {
         "name": "Balades Sonores",
@@ -74,7 +64,17 @@
         "repo_url": "",
         "project_url": "http://www.baladessonores.com/",
         "images": ["https://cl.ly/0Q1F3U2Q2J2Y/Screenshot%202017-05-29%20a%CC%80%2018.26.50.png"],
-        "status": "ongoing"
+        "status": "in progress"
+    },
+    {
+        "name": "Thomas Mery's résumé",
+        "description": "A small React application that presents what I have done & what I am doing ... code wise",
+        "notes": "As I was in need of revamping my résumé it occured to me that it would be a good idea to take this opportunity to keep on training and use [create-react-app](https://github.com/facebookincubator/create-react-app), an easy to use build configuration for React.js application made by facebook to help developers. This project is also a good introduction to working with a simple [Progressive Web Application](https://developers.google.com/web/progressive-web-apps/). It is also planned to use this project to build a first simple [React Native](https://facebook.github.io/react-native/) application.",
+        "technologies": ["Javascript", "React.js"],
+        "repo_url": "https://github.com/thomasmery/thomasmery.github.io",
+        "project_url": "http://thomasmery.github.io",
+        "images": ["https://cl.ly/1S3x3V3H1R2B/Screenshot%202017-05-29%20a%CC%80%2018.24.15.png"],
+        "status": "in progress"
     },
     {
         "name": "Vue Sur La Ville",
@@ -108,7 +108,7 @@
         "technologies": ["PHP", "Yii framework", "MySql", "HTML/CSS"],
         "project_url": "",
         "images": ["https://cl.ly/0g0I2e06052a/Screenshot%202017-05-30%20a%CC%80%2011.20.43.png"],
-        "status": "ongoing"
+        "status": "completed"
     }
 
 ]
