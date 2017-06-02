@@ -81,11 +81,11 @@
         "type": "web site",
         "client": "Mister Brown - Agency",
         "description": "Un site _Single Page_ réalisé avec le recours à l'API REST de WordPress.",
-        "notes": "Ce projet était l'occasion d'une première approche de l'API REST de WordPress qui n'était alors accessible que sous forme d'extension. Le projet fait aussi appel au canvas HTML5 pour des transitions intéressantes et personnalisés entre les projets de cette agence de design.\n\nLe site a été réalisé avec la graphic designer [Monica Fraile](http://www.monicafraile.com).",
+        "notes": "Ce projet était l'occasion d'une première approche de l'API REST de WordPress qui n'était alors accessible que sous forme d'extension. Le projet fait aussi appel au canvas HTML5 pour des transitions intéressantes et personnalisées entre les projets de cette agence de design.\n\nLe site a été réalisé avec la graphic designer [Monica Fraile](http://www.monicafraile.com).",
         "technologies": ["PHP", "WordPress", "HTML/CSS", "Javascript", "Backbone.js", "WP REST API", "HTML5 Canvas"],
         "project_url": "http://www.vuesurlaville.fr",
         "repo_url": "https://github.com/aaltomeri/vslv/tree/master/wp-content/themes/vslv",
-        "images": ["https://cl.ly/0r3F1m2c1b0U/Screenshot%202017-05-29%20a%CC%80%2013.59.38.png", "https://cl.ly/0l3G0t2j2e0R/Screenshot%202017-05-29%20a%CC%80%2013.59.11.png"],
+        "images": ["https://cl.ly/0r3F1m2c1b0U/Screenshot%202017-05-29%20a%CC%80%2013.59.38.png","https://cl.ly/1z2R1y0Q3b3k/Image%202017-06-02%20at%2011.19.41%20AM.png", "https://cl.ly/0l3G0t2j2e0R/Screenshot%202017-05-29%20a%CC%80%2013.59.11.png"],
         "status": "completed"
     },
     {
