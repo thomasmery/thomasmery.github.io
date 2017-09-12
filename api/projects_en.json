@@ -39,7 +39,7 @@
         "name": "WooCommerce Record Store extension",
         "description": "An extension to help Record Store Owners with their e-commerce site.",
         "notes": "I started to develop this extension as the need arose for a Record Store I was working with to import and get release infos for a great number of records. The very first version of the WC Record Store extension allows a store owner to easily fetch Artwork, Genres, Styles and Year of Release for the records he/she sells with WooCommerce.####\n\nThis project consitutes my first attempt to building a WordPress/WooCommerce extension from the ground up. It attempts to follow good practices and, for instance, is thoroughly tested with [PHP Unit](https://phpunit.de/), the [WordPress testing suite](https://make.wordpress.org/cli/handbook/plugin-unit-tests/) and the [WP-CLI project](http://wp-cli.org/).\n\nThis extension makes use of the [Php Discogs API](https://github.com/ricbra/php-discogs-api) project based on the [Guzzle PHP HTTP client](https://github.com/guzzle/guzzle). It fetches infos from the [Discogs API](https://www.discogs.com/developers/) as well as the [Spotify API](https://developer.spotify.com/web-api/). \n\nThe extension should, in the future, build on its primary goals (helping with managing records informations) but also help store owners publish the record they sell within their e-commerce site on other platforms at the same time.",
-        "technologies": ["PHP", "WordPress", "WooCommerce", "Javascript", "React.js"],
+        "technologies": ["PHP", "WordPress", "WooCommerce", "Javascript"],
         "repo_url": "",
         "project_url": "",
         "images": ["https://cl.ly/3m102K2X2X2a/Screenshot%202017-05-29%20a%CC%80%2017.23.31.png"],
